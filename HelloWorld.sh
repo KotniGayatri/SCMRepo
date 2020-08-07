@@ -1,1 +1,2 @@
-echo "Hello World"
+echo "Hello People"
+echo "This is Kotni Gayatri"
